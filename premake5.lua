@@ -8,8 +8,8 @@ project "STB"
 
     files
     {
-        "**.h",
-        "**.c"
+        "stb_image.h",
+        "*stb_image.c"
     }
     
     filter "system:windows"
