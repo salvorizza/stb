@@ -9,7 +9,7 @@ project "STB"
     files
     {
         "stb_image.h",
-        "*stb_image.c"
+        "stb_image.c"
     }
     
     filter "system:windows"
